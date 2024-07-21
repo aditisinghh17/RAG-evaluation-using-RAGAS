@@ -1,4 +1,4 @@
-# Building a RAG application from scratch
+# Building & Evaluating RAG application from scratch 
 
 This is a step-by-step guide to building a simple RAG (Retrieval-Augmented Generation) application using Pinecone and OpenAI's API. The application will enable users to ask questions about the provided data and evaluate the results using the RAGAS framework.
 
